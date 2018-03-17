@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/road_background">
+
+    <TextView
+        android:id="@+id/car_brand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="50dp"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:text="Brand" />
+
+    <TextView
+        android:id="@+id/car_year"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="25dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="25dp"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:text="Year" />
+
+    <TextView
+        android:id="@+id/car_color"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="25dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="25dp"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:text="Color" />
+
+    <TextView
+        android:id="@+id/car_km"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="25dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="25dp"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:text="Km" />
+
+    <TextView
+        android:id="@+id/car_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="25dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="25dp"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:text="Price" />
+
+    <Button
+        android:background="@android:color/white"
+        android:fontFamily="@font/roboto_slab"
+        android:id="@+id/submit_button"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="25dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="25dp"
+        android:textColor="@android:color/background_dark"
+        android:textSize="18sp"
+        android:text="Book car"
+        style="@style/Widget.AppCompat.Button.ButtonBar.AlertDialog"/>
+
+</LinearLayout>

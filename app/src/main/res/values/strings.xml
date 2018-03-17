@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cartal</string>
+
+    <string name="where">Where</string>
+    <string name="departureDate">Departure date</string>
+    <string name="returnDate">Return date</string>
+    <string name="submit">Submit</string>
+
+    <!--<string name="app_name">Cartal</string>-->
+    <!--<string name="app_name">Cartal</string>-->
+    <!--<string name="app_name">Cartal</string>-->
+    <!--<string name="app_name">Cartal</string>-->
+    <!--<string name="app_name">Cartal</string>-->
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">OPnlAoEmZaIOycI6NV38StEcro6vkNavkAbNQVKW</string>
+    <string name="back4app_client_key">VQ2yUEYh0gEihyuXUGiuZvsRmBbTFly8luh1Mirk</string>
+
+</resources>

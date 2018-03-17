@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "599498405642",
+    "firebase_url": "https://finalproject-baa9d.firebaseio.com",
+    "project_id": "finalproject-baa9d",
+    "storage_bucket": "finalproject-baa9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599498405642:android:8fdb6cbd2d21f041",
+        "android_client_info": {
+          "package_name": "com.example.jorgeserna.cartal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599498405642-uuap9ct9cc6nnbnv5rq4m5b7joesfr6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA361N49gL0CbrKjZ67p-UUouTCdIy-8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599498405642-uuap9ct9cc6nnbnv5rq4m5b7joesfr6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
